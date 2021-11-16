@@ -1,1 +1,1 @@
-# NNaimanGeogF12.github.io
+A map showing some destinations which are important to me.
